@@ -5,4 +5,4 @@ source("plotData.R", local = T, print.eval = T)
 table(whales$ID)
 
 summary(whales$latitude)
-
+summary(whales$longitude)
